@@ -1,4 +1,4 @@
-# MySQL\
+# MySQL
 
 #Data Type in mySQL
 --
